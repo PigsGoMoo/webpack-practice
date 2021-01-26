@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  background-color: cyan;
+}
+
+#map {
+  height: 95vh;
+  width: 100vw;
+}
+
+.navbar {
+  height: 5vh;
+  width: 100vh;
+  background-color: cyan;
+}
